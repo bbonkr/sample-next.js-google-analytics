@@ -1,0 +1,33 @@
+{
+  "name": "sample-next.js-google-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbonkr/sample-next.js-google-analytics.git"
+  },
+  "keywords": [],
+  "author": "Pon Cheol Ku <dev@bbon.kr> (http://bbon.kr/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbonkr/sample-next.js-google-analytics/issues"
+  },
+  "homepage": "https://github.com/bbonkr/sample-next.js-google-analytics#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/gtag.js": "^0.0.7",
+    "@types/node": "^16.3.1",
+    "@types/react": "^17.0.14"
+  }
+}
